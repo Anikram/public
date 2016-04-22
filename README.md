@@ -1,2 +1,2 @@
-# the_skythief
-project of the game
+# public_folder 
+to carry all my code stuff
