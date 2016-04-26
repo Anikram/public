@@ -1,0 +1,511 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ke",
+				"love.keyboard.isDown"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "conf.lua",
+			"settings":
+			{
+				"buffer_size": 97,
+				"line_ending": "Windows",
+				"name": "conf.lua"
+			}
+		},
+		{
+			"file": "main.lua",
+			"settings":
+			{
+				"buffer_size": 1818,
+				"line_ending": "Windows",
+				"name": "main.lua"
+			}
+		},
+		{
+			"file": "debug.lua",
+			"settings":
+			{
+				"buffer_size": 682,
+				"line_ending": "Windows",
+				"name": "debug.lua"
+			}
+		},
+		{
+			"file": "MenuScene.lua",
+			"settings":
+			{
+				"buffer_size": 531,
+				"line_ending": "Windows",
+				"name": "MenuScene.lua"
+			}
+		},
+		{
+			"file": "MenuItem.lua",
+			"settings":
+			{
+				"buffer_size": 333,
+				"line_ending": "Windows",
+				"name": "MenuItem.lua"
+			}
+		},
+		{
+			"file": "Scene.lua",
+			"settings":
+			{
+				"buffer_size": 210,
+				"line_ending": "Windows",
+				"name": "Scene.lua"
+			}
+		}
+	],
+	"build_system": "Packages/Lua Love/LuaLove.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Love2D"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: File"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: Project"
+				]
+			],
+			[
+				"Packages/Lua Love/LuaLove.sublime-build",
+				"Love2D"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 353.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"love",
+				"Set Syntax: Lua (Love)"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 600.0
+	},
+	"console":
+	{
+		"height": 213.0,
+		"history":
+		[
+			"git clone git://github.com/szensk/subllualove.git",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Google Drive/Домашние файлы/Programming/lua/LOVE/fun-with-love/pitpocket"
+	],
+	"file_history":
+	[
+		"/D/Google Drive/Домашние файлы/Programming/lua/LOVE/fun-with-love/class_try/player.lua",
+		"/D/Google Drive/Домашние файлы/Programming/lua/LOVE/fun-with-love/class_try/introScene.lua",
+		"/D/Google Drive/Домашние файлы/Programming/lua/LOVE/fun-with-love/class_try/GameActor.lua",
+		"/D/Google Drive/Домашние файлы/Programming/lua/LOVE/fun-with-love/class_try/BannerScene.lua",
+		"/D/Google Drive/Домашние файлы/Programming/lua/LOVE/fun-with-love/class_try/GameScene.lua",
+		"/D/Google Drive/Домашние файлы/Programming/lua/LOVE/fun-with-love/class_try/MenuItem.lua",
+		"/D/Google Drive/Домашние файлы/Programming/lua/LOVE/fun-with-love/class_try/gameMenuScene.lua",
+		"/D/Google Drive/Домашние файлы/Programming/lua/LOVE/fun-with-love/class_try/mainMenuScene.lua",
+		"/D/Google Drive/Домашние файлы/Programming/lua/LOVE/fun-with-love/class_try/MenuScene.lua",
+		"/D/Google Drive/Домашние файлы/Programming/lua/LOVE/fun-with-love/class_try/Scene.lua",
+		"/D/Google Drive/Домашние файлы/Programming/lua/LOVE/fun-with-love/class_try/main.lua",
+		"/D/Google Drive/Домашние файлы/Programming/lua/LOVE/fun-with-love/class_try/conf.lua",
+		"/D/Google Drive/Домашние файлы/Programming/lua/LOVE/fun-with-love/class_try/debug.lua",
+		"/D/Google Drive/Домашние файлы/Programming/lua/LOVE/[course] GAMEDEV-tsure/examples_from_lectures/scenes/MenuItem.lua",
+		"/D/Google Drive/Домашние файлы/Programming/lua/LOVE/[course] GAMEDEV-tsure/examples_from_lectures/scenes/MenuScene.lua",
+		"/D/Google Drive/Домашние файлы/Programming/lua/LOVE/[course] GAMEDEV-tsure/examples_from_lectures/scenes/Scene.lua",
+		"/D/Google Drive/Домашние файлы/Programming/lua/LOVE/[course] GAMEDEV-tsure/examples_from_lectures/scenes/main.lua",
+		"/D/Google Drive/Домашние файлы/Programming/lua/LOVE/fun-with-love/new_thief/conf.lua",
+		"/D/Google Drive/Домашние файлы/Programming/lua/LOVE/[course] GAMEDEV-tsure/examples_from_lectures/scenes/GameScene.lua",
+		"/D/Google Drive/Домашние файлы/Programming/lua/LOVE/[course] GAMEDEV-tsure/examples_from_lectures/scenes/GameActor.lua",
+		"/D/Google Drive/Домашние файлы/Programming/lua/LOVE/[course] GAMEDEV-tsure/examples_from_lectures/ECS/main.lua",
+		"/D/Google Drive/Домашние файлы/Programming/lua/LOVE/[course] GAMEDEV-tsure/examples_from_lectures/ECS/Entity.lua",
+		"/D/Google Drive/Домашние файлы/Programming/lua/LOVE/[course] GAMEDEV-tsure/examples_from_lectures/ECS/Component.lua",
+		"/D/Google Drive/Домашние файлы/Programming/lua/LOVE/fun-with-love/thief v 03/over.lua",
+		"/D/Google Drive/Домашние файлы/Programming/lua/LOVE/fun-with-love/thief v 03/level.lua",
+		"/D/Google Drive/Домашние файлы/Programming/lua/LOVE/fun-with-love/thief v 03/menu.lua",
+		"/D/Google Drive/Домашние файлы/Programming/lua/LOVE/fun-with-love/thief v 03/intro.lua",
+		"/D/Google Drive/Домашние файлы/Programming/lua/LOVE/fun-with-love/thief v 03/main.lua",
+		"/D/Google Drive/Домашние файлы/Programming/lua/LOVE/fun-with-love/thief v 03/conf.lua",
+		"/D/Google Drive/Домашние файлы/Programming/lua/LOVE/[course] GAMEDEV-tsure/examples_from_lectures/event-dispatchers/main.lua",
+		"/D/Google Drive/Домашние файлы/Programming/lua/LOVE/fun-with-love/game_boy_1/conf.lua",
+		"/D/Google Drive/Домашние файлы/Programming/lua/LOVE/fun-with-love/game_boy_1/game.lua",
+		"/D/Google Drive/Домашние файлы/Programming/lua/LOVE/fun-with-love/game_boy_1/main.lua",
+		"/D/Google Drive/Домашние файлы/Programming/lua/LOVE/fun-with-love/game_boy_1/splash.lua",
+		"/D/Google Drive/Домашние файлы/Programming/lua/LOVE/hump-master/timer.lua",
+		"/D/love2d_projects/lesson4/main.lua",
+		"/D/love2d_projects/lesson3/player.lua",
+		"/C/Users/Anikram/AppData/Roaming/Sublime Text 3/Packages/User/snippet.love2d.lua",
+		"/D/love2d_projects/lesson3/conf.lua",
+		"/D/love2d_projects/lesson3/main.lua",
+		"/D/love2d_projects/lesson3/less3.sublime-project",
+		"/D/love2d_projects/web/style.css",
+		"/D/love2d_projects/web/index.html",
+		"/D/love2d_projects/basketball/main.lua",
+		"/D/love2d_projects/basketball/lesson3.lua",
+		"/D/love2d_projects/basketball/player.lua",
+		"/D/love2d_projects/basketball/урок3.lua",
+		"/D/love2d_projects/basketball/conf.lua",
+		"/D/love2d_projects/basketball/ball.jpg",
+		"/C/Users/Anikram/AppData/Roaming/Sublime Text 3/Packages/User/LuaLove.sublime-settings",
+		"/C/Users/Anikram/AppData/Roaming/Sublime Text 3/Installed Packages/Package Control.sublime-package",
+		"/C/Users/Anikram/AppData/Roaming/Sublime Text 3/Packages/User/Lua.sublime-build"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 138.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"desktop"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "conf.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 97,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91,
+								91
+							]
+						],
+						"settings":
+						{
+							"auto_name": "conf.lua",
+							"syntax": "Packages/Lua/Lua.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "main.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1818,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								188,
+								188
+							]
+						],
+						"settings":
+						{
+							"auto_name": "main.lua",
+							"syntax": "Packages/Lua/Lua.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "debug.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 682,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								637,
+								637
+							]
+						],
+						"settings":
+						{
+							"auto_name": "debug.lua",
+							"syntax": "Packages/Lua/Lua.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "MenuScene.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 531,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								68,
+								68
+							]
+						],
+						"settings":
+						{
+							"auto_name": "MenuScene.lua",
+							"syntax": "Packages/Lua/Lua.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 132.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "MenuItem.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 333,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								131,
+								131
+							]
+						],
+						"settings":
+						{
+							"auto_name": "MenuItem.lua",
+							"syntax": "Packages/Lua/Lua.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Scene.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 210,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								196,
+								196
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Scene.lua",
+							"syntax": "Packages/Lua/Lua.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 153.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "Packages/User/LuaLove.sublime-build",
+	"project": "pitpocket.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 750.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Google Drive\\Домашние файлы\\Programming\\lua\\LOVE\\fun-with-love\\class_try\\class_try.sublime-project"
+			]
+		],
+		"width": 570.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
